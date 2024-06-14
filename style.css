@@ -1,0 +1,55 @@
+body {
+    font-family: cursive;
+    justify-content: center;
+    background-color: brown;
+}
+
+#borderradius {
+    background-color: rgb(252, 8, 8);
+    width: 478px;
+    height: 600px;
+    margin: 50px auto;
+    border-radius: 10px;
+    border: 1px solid rgb(234, 60, 16);
+    padding: 20px;
+    box-shadow: 20px 20px 20px  rgba(23, 23, 23, 0.236);
+  }
+
+  .flasherbanner {
+    border: solid 5px;
+    border-radius: 10px;
+  }
+  
+  .prfilbild{
+    border: solid 5px;
+    border-radius: 88px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    background: linear-gradient(320deg, #000000, #ff0000, #000000);
+    border: solid 5px rgb(0, 0, 0);
+    border-radius: 100px;
+    text-align: center;
+  }
+
+.youtube {
+  background: linear-gradient(320deg, #856356, #ff0d00, #253d38);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px black;
+    color: black;
+    border-radius: 100px;
+}
+
+.instagram {
+    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px black;
+    border-radius: 100px;
+}
